@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"-¬-¬-¬-¬-¬-¬-¬-¬-","color":"dark_green","bold":true},"\n\n     ",{"text":"Loaded:","color":"green"}," ",{"text":"AFKME","color":"dark_aqua","bold":true},"\n      ",{"text":"by: @falseme","underlined":true,"color":"gold"},"\n\n",{"text":"-¬-¬-¬-¬-¬-¬-¬-¬-","color":"dark_green","bold":true}]
